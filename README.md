@@ -1,7 +1,7 @@
 Build & run
 
 
-# Build (final image ≈ 450–550 MB, vs 10 GB+ for a CUDA image)
+# Build (final image ≈ 700–850 MB, vs 10 GB+ for a CUDA image)
 docker build -t tiny-aws-cli:1.0 .
 
 # Run API server
